@@ -6,12 +6,11 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   font-family: "Times New Roman", Times, serif;
   margin: 0;
   padding: 0;
   color: #ccc;
-  height: 100vh;
+  min-height: 100vh;
 }
 img {
   border-radius: 50%;
