@@ -36,6 +36,7 @@ header p {
 main {
   display: grid;
   grid-template-columns: 1fr;
+  height: 80vh;
 }
 .me {
   background-color: rgba(0, 0, 0, 0.6);
