@@ -37,7 +37,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   height: 80vh;
-  gap: 1rem;
+  gap: 2rem;
 }
 .me {
   background-color: rgba(0, 0, 0, 0.6);
